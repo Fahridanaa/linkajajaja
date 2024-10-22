@@ -1,16 +1,29 @@
 # linkajajaja
 
-A new Flutter project.
+Melakukan slicing pada aplikasi LinkAja untuk uts pemrograman mobile
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
 
-A few resources to get you started if this is your first Flutter project:
+    ```bash
+    git clone https://github.com/Fahridanaa/linkajajaja.git
+    ```
+2. Navigate into the project directory
+   ```bash
+   cd linkajajaja
+   ```
+3. Install dependencies
+   ```bash
+   flutter pub get
+   ```
+4. Run the project
+   ```bash
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+- ![home](./assets/home.png)
+- ![transaction Pending](./assets/transaction-pending.png)
+- ![transaction Done](./assets/transaction-done.png)
+- ![account](./assets/account.png)
